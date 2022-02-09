@@ -1,0 +1,31 @@
+
+.navbar{
+    background-color: rgb(10 35 62);
+}
+
+
+.mx-auto{
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+}
+
+.text1{
+    text-align: left;
+}
+
+.data{
+margin-top: -80px;
+margin-bottom: 50px;
+}
+
+.card{
+padding: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 50px;
+}
+
+.jumbotron2{
+    margin-bottom: 50px;
+}
